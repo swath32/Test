@@ -1,0 +1,20 @@
+<suite name="TestNg featurers testing" verbose="1" >
+  <test name="diff features" >
+    <classes>
+       <class name="TestNG.Googletest" />
+
+
+
+      <class name="TestNG.Assertequal"/>
+       <class name="TestNG.Invocationmethod"/>
+          <class name="TestNG.Priorityexecution"/>
+       <class name="TestNG.Dependencycases"/>
+          <class name="TestNG.Testngbasics"/>
+           <class name="TestNG.Exceptionaltimeout"/>
+       
+       
+      
+      
+    </classes>
+  </test>
+</suite>
